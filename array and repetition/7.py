@@ -18,7 +18,7 @@ else:
     indexMedian = n//2
 
 
-for i in range(n):
+for i in range(indexMedian+1):
     minimum = x[i]
     p = 0
     for j in range(i, n):
