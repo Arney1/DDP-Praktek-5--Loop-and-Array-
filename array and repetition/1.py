@@ -7,8 +7,8 @@ while True:
             print("\033[91mAngka woy!!!\033[0m")
 
 if x > 0:
-    print("angka tersebut adalah bilangan positif")
+    print("\nangka tersebut adalah bilangan positif")
 elif x == 0:
-    print("angka tersebut adalah 0")
+    print("\nangka tersebut adalah 0")
 else:
-    print("angka tersebut adalah bilangan negatif")
+    print("\nangka tersebut adalah bilangan negatif")
